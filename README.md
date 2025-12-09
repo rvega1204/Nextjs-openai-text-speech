@@ -31,7 +31,7 @@ A [Next.js](https://nextjs.org) application that converts text into speech using
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rvega1204/Nextjs-openai-text-speech.git
    cd openai-text-speech
    ```
 
